@@ -3,3 +3,6 @@ It selects all the Sketchup entities that are based on the same definition.
 
 To install it, place the files in the src dir into the Sketchup Plugins dir.
 On my machine, that dir is `~/Library/Application\ Support/SketchUp\ 2016/SketchUp/Plugins`
+
+* [Source code](https://github.com/JoshCheek/sketchup-example-plugin)
+* [Demo Video](https://vimeo.com/222228677)
